@@ -20,7 +20,7 @@ My name is HUNG. I'm a fontend web developer from Vietnam. I love making and des
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
 - 🌱 I'm currently learning Typescript, Ruby, Ruby on rails.
-- 🔭 I'm currently working on creating webpages and learning how to progam.
+- 🔭 I'm currently working on creating webpages and learning how to program.
 - 😀 I like to code, read and learn a new language in my free time.
 - 💬 Ask me about fountain pens.
 - 📫 How to reach me **hungtv@midota.com**

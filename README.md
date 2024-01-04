@@ -24,7 +24,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 😀 I like to code, read and learn a new language in my free time.
 - 💬 Ask me about fountain pens.
 - 📫 How to reach me **hungtv@midota.com**
-- 📄 Know about my CV [tranvanhung.com](tranvanhung.com)
+- 📄 Know about my CV [tranvanhung.com](https://tranvanhung.com)
 
 ## Connect with me 🎯
 
